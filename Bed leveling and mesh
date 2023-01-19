@@ -1,0 +1,18 @@
+ABL, UBL, MBL and tramming
+--------------------------
+
+Tramming 
+--------
+Tramming is also known as leveling. 
+This is the first step which should be done before meshing.
+
+Auto Bed Leveling (ABL)
+
+Unified Bed Leveling (UBL)
+
+Mesh Bed Leveling (MBL)
+-----------------------
+Compensate for imperfections in the build surface
+
+Bed tilt
+
